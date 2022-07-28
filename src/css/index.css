@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* body {
+  background-color: #353535;
+  color: #ccc;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 2rem;
+  max-width: 650px;
+  background-color: #1f2227;
+  width: 100%;
+  margin: auto;
+  position: fixed;
+  z-index: 20;
+  top: 17px;
+  border-radius: 7px;
+} */
